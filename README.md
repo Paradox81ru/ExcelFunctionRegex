@@ -23,4 +23,4 @@
 - ПроверкаПоРегВыр - Функция проверки по регулярному выражению;
 - СцепТекстПоРазд - Объединение текста через знак разделитель.
 
-Более продробно и наглядно узнать о расширении *ExcelFunctionRegex*, его установке и использовании, а также о создании своих расширений и дополнительных функци посредством библиотеки *Excel-DNA* можно на моём сайте [Парадокс Портал](http://www.paradox-portal.ru/blog/article/9-rasshireniya_dlya_microsoft_excel_na_c_sharp_funkcii_regulyarnyie_vyirazheniya)
+Более продробно и наглядно узнать о расширении *ExcelFunctionRegex*, его установке и использовании, а также о создании своих расширений и дополнительных функци посредством библиотеки *Excel-DNA*, можно на моём сайте [Парадокс Портал](http://www.paradox-portal.ru/blog/article/9-rasshireniya_dlya_microsoft_excel_na_c_sharp_funkcii_regulyarnyie_vyirazheniya)
