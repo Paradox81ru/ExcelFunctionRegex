@@ -1,0 +1,7 @@
+.vs
+ExcelFunctionRegex/obj/
+ExcelFunctionRegex/bin/Debug
+ExcelFunctionRegex/bin/Release/ExcelFunctionRegex.dll
+ExcelFunctionRegex/bin/Release/ExcelFunctionRegex.pdb
+ExcelFunctionRegex/bin/Release/ExcelFunctionRegex-AddIn.dna
+ExcelFunctionRegex/bin/Release/ExcelFunctionRegex-AddIn64.dna
